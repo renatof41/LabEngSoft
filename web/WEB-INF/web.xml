@@ -58,7 +58,7 @@
     </servlet-mapping>
     <session-config>
         <session-timeout>
-            99
+            22
         </session-timeout>
     </session-config>
 </web-app>
