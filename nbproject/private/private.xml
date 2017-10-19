@@ -3,31 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/entidades/Fornecedor.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/web/WEB-INF/web.xml</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/web/index.html</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/entidades/Produto.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/web/inicial.jsp</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/web/login.css</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/entidades/Funcionario.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/controles/FornecedorDAO.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/entidades/TipoProduto.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/web/cadastroAnimal.jsp</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/servlet/Login.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/controles/AnimalDAO.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/servlet/CadastroUsuario.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/entidades/Cliente.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/servlet/CadastroAnimal.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/servlet/CadastroCliente.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/servlet/CadastroFuncionario.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/controles/ClienteDAO.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/entidades/Usuario.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/entidades/Animal.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/servlet/CadastroProduto.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/servlet/CadastroFornecedor.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/web/cadastroUsuario.jsp</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/controles/Conexao.java</file>
-            <file>file:/Y:/NetBeans/ProjLabEngSoftIII/src/java/controles/UsuarioDAO.java</file>
+            <file>file:/home/abarcellos/NetBeansProjects/LabEngSoft/web/WEB-INF/web.xml</file>
         </group>
     </open-files>
 </project-private>
